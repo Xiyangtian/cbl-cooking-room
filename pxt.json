@@ -4,7 +4,9 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "cubicbird-land-core": "github:felixtsu/cubicbird-land-core#v0.0.15"
+        "cubicbird-land-core": "github:felixtsu/cubicbird-land-core#v0.0.15",
+        "hxy料理大师": "pub:32817-37419-24167-99617",
+        "zzh料理大师": "pub:70606-33993-66516-75443"
     },
     "files": [
         "README.md",
